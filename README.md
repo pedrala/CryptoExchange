@@ -1,7 +1,7 @@
-# In Service
+## In Service
 https://www.kovex.co.kr
 
-# To start
+## To start
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli)
 
 ``` bash
@@ -16,7 +16,7 @@ npm run build_dev
 
 ```
 
-# Folder structure
+## Folder structure
 * build - webpack config files
 * config - webpack config files
 * dist - build
@@ -34,9 +34,9 @@ npm run build_dev
     * routes.js
 * static - static assets
 
-# Browser support
+## Browser support
 
 Modern browsers and IE 10+.
 
-# License
+## License
 [MIT](http://opensource.org/licenses/MIT)
